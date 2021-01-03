@@ -25,7 +25,8 @@ Tecnologias que eu desenvolvo atualmente
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="typescript" width="70" height="70"/>
-<img src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" alt="tailwindcss" width="70" height="70"/> 
+<img src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" alt="tailwindcss" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="less" width="80" height="80"/>
 </p>
 
 <br>
