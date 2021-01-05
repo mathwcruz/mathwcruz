@@ -1,6 +1,6 @@
 <h1 align="center">Olá amigo(a) 👋, eu sou o Matheus da Cruz</h1>
 <h2 align="center">Um desenvolvedor gaúcho front end em aprendizado contínuo e entusiasta de tecnologia</h2>
-<h3 align="center">Também gosto muito de temas relacionados a astronomia e a economia 🌎 💲</h3>
+<h3 align="center">Também gosto muito de temas relacionados à astronomia e à economia 🌎 💲</h3>
 
 <br>
 
