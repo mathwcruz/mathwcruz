@@ -1,13 +1,13 @@
 <h1 align="center">Olá amigo(a) 👋, eu sou o Matheus da Cruz</h1>
-<h2 align="center">Um desenvolvedor front end em aprendizado contínuo e entusiasta de tecnologia</h2>
-<h3 align="center">Também gosto muito de temas relacionados a astronomia e economia 🌎 💲</h3>
+<h2 align="center">Um desenvolvedor gaúcho front end em aprendizado contínuo e entusiasta de tecnologia</h2>
+<h3 align="center">Também gosto muito de temas relacionados a astronomia e a economia 🌎 💲</h3>
 
 <br>
 
 - 🔭 Atualmente trabalho na [Combate à Fraude](https://github.com/combateafraude)
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Univates
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na **Univates**
 - 💬 Contate-me pelo [Linkedin](https://www.linkedin.com/in/matheuscruzsoftwareengineer/)
-- 📫 Contate-me pelo matheuswachcruz@gmail.com
+- 📫 Contate-me pelo **matheuswachcruz@gmail.com**
 - 📝 Confira o meu [Currículo](https://drive.google.com/file/d/1Kq898O_gyXZjnaFYpAIze-4RDWZSGNWy/view?usp=sharing)
 
 <br>
@@ -30,8 +30,13 @@ Tecnologias que eu desenvolvo atualmente
 </p>
 
 <br>
+<p align="center">
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600" height="350" alt="gif-front-end">
+</p>
 
-<h2 align="left">Meus principais projetos pessoais</h2>
+<br>
+
+**<h2 align="left">Meus principais projetos pessoais</h2>**
 
 <a href="https://github.com/mathwcruz/Adot.ME">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathwcruz&show_owner=true&repo=Adot.ME" />
