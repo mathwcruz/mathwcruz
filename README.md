@@ -48,6 +48,6 @@ Tecnologias que eu desenvolvo atualmente
 <br>
 <br>
 
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mathwcruz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mathwcruz&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Matheus Cruz's github stats](https://github-readme-stats.vercel.app/api?username=mathwcruz&show_icons=true&theme=react)
