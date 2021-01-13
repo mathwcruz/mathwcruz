@@ -6,9 +6,12 @@
 
 - 🔭 Atualmente trabalho na [Combate à Fraude](https://github.com/combateafraude)
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na **Univates**
-- 💬 Contate-me pelo [Linkedin](https://www.linkedin.com/in/matheuscruzsoftwareengineer/)
-- 📫 Contate-me pelo **matheuswachcruz@gmail.com**
 - 📝 Confira o meu [Currículo](https://drive.google.com/file/d/1Kq898O_gyXZjnaFYpAIze-4RDWZSGNWy/view?usp=sharing)
+
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20da%20Cruz-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscruzsoftwareengineer/)](https://www.linkedin.com/in/matheuscruzsoftwareengineer/) 
+[![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
 
 <br>
 
