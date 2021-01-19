@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente trabalho na [Combate à Fraude](https://github.com/combateafraude)
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na **Univates**
-- 📝 Confira o meu [Currículo](https://drive.google.com/file/d/1Kq898O_gyXZjnaFYpAIze-4RDWZSGNWy/view?usp=sharing)
+- 📝 Confira o meu [Currículo](https://drive.google.com/file/d/1V7iChQO5QShgQhc50DTlUC6d2ouCwg1m/view?usp=sharing)
 
 <br>
 
