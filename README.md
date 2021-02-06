@@ -44,8 +44,8 @@ Tecnologias que eu desenvolvo atualmente
 <a href="https://github.com/mathwcruz/Adot.ME">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathwcruz&show_owner=true&repo=Adot.ME" />
 </a>
-<a href="https://github.com/mathwcruz/LyholeCap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathwcruz&show_owner=true&repo=LyholeCap" />
+<a href="https://github.com/mathwcruz/dev.finance-tailwindCSS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathwcruz&show_owner=true&repo=dev.finance-tailwindCSS" />
 </a>
 
 <br>
