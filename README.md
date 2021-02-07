@@ -29,7 +29,8 @@ Tecnologias que eu desenvolvo atualmente
   <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="typescript" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" width="70" height="70"/>
+<img src="https://jestjs.io/img/jest.png" alt="jest" width="70" height="70"/>
 </p>
 
 <br>
