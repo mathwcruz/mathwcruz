@@ -54,10 +54,14 @@ Tecnologias que eu já desenvolvo
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathwcruz&show_owner=true&repo=be_the_hero_SO_11" />
 </a>
 <br>
+<br>
+
 <a href="https://github.com/mathwcruz/Adot.ME">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathwcruz&show_owner=true&repo=Adot.ME" />
 </a>
 <br>
+<br>
+
 <a href="https://github.com/mathwcruz/dev.finance-tailwindCSS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathwcruz&show_owner=true&repo=dev.finance-tailwindCSS" />
 </a>
