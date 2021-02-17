@@ -50,16 +50,18 @@ Tecnologias que eu já desenvolvo
 
 **<h2 align="left">Meus principais projetos pessoais</h2>**
 
+<a href="https://github.com/mathwcruz/be_the_hero_SO_11">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathwcruz&show_owner=true&repo=be_the_hero_SO_11" />
+</a>
+
 <a href="https://github.com/mathwcruz/Adot.ME">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathwcruz&show_owner=true&repo=Adot.ME" />
 </a>
+
 <a href="https://github.com/mathwcruz/dev.finance-tailwindCSS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathwcruz&show_owner=true&repo=dev.finance-tailwindCSS" />
 </a>
 
 <br>
-<br>
-
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mathwcruz&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Matheus Cruz's github stats](https://github-readme-stats.vercel.app/api?username=mathwcruz&show_icons=true&theme=react)
