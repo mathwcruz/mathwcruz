@@ -67,5 +67,6 @@ Tecnologias que eu já desenvolvo
 </a>
 
 <br>
+<br>
 
 ![Matheus Cruz's github stats](https://github-readme-stats.vercel.app/api?username=mathwcruz&show_icons=true&theme=react)
