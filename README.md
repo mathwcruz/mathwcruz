@@ -10,7 +10,7 @@
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20da%20Cruz-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscruzsoftwareengineer/)](https://www.linkedin.com/in/matheuscruzsoftwareengineer/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20da%20Cruz-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend)](www.linkedin.com/in/matheus-cruz-frontend) 
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
 
 <br>
