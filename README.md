@@ -7,10 +7,9 @@
 - 🔭 Atualmente trabalho na [Combate à Fraude](https://github.com/combateafraude)
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na **Univates**
 - 📝 Confira o meu [Currículo](https://drive.google.com/file/d/1V7iChQO5QShgQhc50DTlUC6d2ouCwg1m/view?usp=sharing)
-
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20da%20Cruz-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend)](www.linkedin.com/in/matheus-cruz-frontend) 
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Cruz-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend/)](https://www.linkedin.com/in/matheus-cruz-frontend/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
 
 <br>
