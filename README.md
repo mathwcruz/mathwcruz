@@ -28,13 +28,13 @@ Tecnologias que eu já desenvolvo
   <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node" width="70" height="70"/>
 <img src="https://jestjs.io/img/jest.png" alt="jest" width="70" height="70"/>
   <br>
   <br>
   Tecnologias que estão no meu radar de aprendizado
   <br>
-<img src="https://mauriciomikulski.github.io/img/logos/reactnative.png" alt="react-native" width="70" height="70"/>
+<img src="https://mauriciomikulski.github.io/img/logos/reactnative.png" alt="react-native" width="85" height="85"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDB" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" width="70" height="70"/>
   <br>
