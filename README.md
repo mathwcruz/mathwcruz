@@ -61,8 +61,8 @@ Tecnologias que eu já desenvolvo
 <br>
 <br>
 
-<a href="https://github.com/mathwcruz/dev.finance-tailwindCSS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathwcruz&show_owner=true&repo=dev.finance-tailwindCSS" />
+<a href="https://github.com/mathwcruz/Proffy_OS_NLW_02">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathwcruz&show_owner=true&repo=Proffy_OS_NLW_02" />
 </a>
 
 <br>
