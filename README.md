@@ -11,6 +11,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Cruz-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend/)](https://www.linkedin.com/in/matheus-cruz-frontend/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
+<a href="https://app.rocketseat.com.br/me/matheus-da-cruz-frontend">
+    <img src="https://img.shields.io/badge/-RocketSeat-3000cc?style=flat-square&logoColor=white&color=3000cc&link=https://app.rocketseat.com.br/me/matheus-da-cruz-frontend" alt="Cruz's Rocketseat profile" />
+</a>
 
 <br>
 
@@ -49,4 +52,8 @@ Tecnologias que eu já desenvolvo ⌨️
 </p>
 <br>
 
-![Matheus Cruz's github stats](https://github-readme-stats.vercel.app/api?username=mathwcruz&show_icons=true&theme=react)
+<p align="center">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=mathwcruz&show_icons=true&theme=dracula" alt="Cruz's stats" height=180 />
+  </span>
+</p>
