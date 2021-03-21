@@ -6,6 +6,7 @@
 
 - 🔭 Atualmente trabalho na [Combate à Fraude](https://github.com/combateafraude)
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na **Univates**
+- 🚀 Em treinamento intensivo no Bootcamp Ignite da [Rocketseat] (https://app.rocketseat.com.br/dashboard)
 - 📝 Confira o meu [Currículo](https://drive.google.com/file/d/1aQPen4zkbK2svid8nc-K85g8AYgBTGFm/view?usp=sharing)
 <br>
 
