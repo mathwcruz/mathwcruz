@@ -44,12 +44,6 @@ Technologies I already develop ⌨️
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" width="70" height="70"/>
   <br>
-  Technologies to develop in leisure 🏖️
-  <br>
-  <br>
-  <img src="https://mauriciomikulski.github.io/img/logos/reactnative.png" alt="react-native" width="85" height="85"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDB" width="70" height="70"/>
-  <br>
 </p>
 <br>
 
