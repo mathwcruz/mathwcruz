@@ -33,7 +33,7 @@ Technologies I already develop ⌨️
   Technologies I'm Learning 📖
   <br>
   <br>
-<img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="nextjs" width="70" height="70"/>
+<img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="nextjs" width="90" height="90"/>
   <br>
   Technologies that are on my learning radar 🔎
   <br>
