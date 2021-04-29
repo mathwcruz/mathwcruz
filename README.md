@@ -26,14 +26,15 @@ Technologies I already develop ⌨️
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="less" width="80" height="80"/>
 <img src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" alt="tailwindcss" width="80" height="80"/>
+<img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" alt="ant-design" width="90" height="90"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/>
   <br>
   Technologies I'm Learning 📖
   <br>
   <br>
-<img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" alt="ant-design" width="90" height="90"/>
-<img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="nextjs" width="90" height="90"/>
+    <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" alt="chakra-ui" width="90" height="90"/>
+   <img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="nextjs" width="90" height="90"/>
   <br>
   Technologies that are on my learning radar 🔎
   <br>
