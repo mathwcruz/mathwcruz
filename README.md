@@ -33,7 +33,6 @@ Technologies I already develop ⌨️
   Technologies I'm Learning 📖
   <br>
   <br>
-    <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" alt="chakra-ui" width="90" height="90"/>
    <img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="nextjs" width="90" height="90"/>
   <br>
   Technologies that are on my learning radar 🔎
