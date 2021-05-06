@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus da Cruz</h1>
-<h2 align="center">A front end developer in continuous learning and technology enthusiast</h2>
-<h3 align="center">I also love topics related to astronomy and economics 🌎 💲</h3>
+<h2 align="center">A front end developer in continuous learning and cryptocurrency enthusiast</h2>
+<h3 align="center">I also love to travel and topics related to astronomy and economics 🌎 💲</h3>
 
 <br>
 
