@@ -24,7 +24,7 @@ Technologies I already develop ⌨️
   <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="80" height="80"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="less" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="80" height="80"/>
 <img src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" alt="tailwindcss" width="80" height="80"/>
 <img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" alt="ant-design" width="90" height="90"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="80" height="80"/>
