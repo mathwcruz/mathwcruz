@@ -39,8 +39,7 @@ Technologies I already develop ⌨️
   <br>
   <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node" width="90" height="90"/>
-<img src="https://res.cloudinary.com/wagon/image/upload/v1585091640/ntgefujscihnprq2a9bb.png" alt="aws" width="90" height="90"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongo-db" width="90" height="90"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="sqlite" width="90" height="90"/>
   <br>
 </p>
 <br>
