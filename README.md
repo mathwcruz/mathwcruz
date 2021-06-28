@@ -4,9 +4,9 @@
 
 <br>
 
-- 🔭 I am currently working on [Combate à Fraude](https://github.com/combateafraude)
+- 👨‍💻 I am currently working on [Combate à Fraude](https://github.com/combateafraude)
 - 🎓 Studying Systems Analysis and Development at [Univates](https://www.univates.br/)
-- 🚀 In intensive training at [Rocketseat's](https://app.rocketseat.com.br/dashboard) Bootcamp Ignite 
+- 🎓 Graduated from [Rocketseat's Bootcamp Ignite](https://rocketseat.com.br/ignite)
 - 📝 Check out my Resume in [portuguese](https://drive.google.com/file/d/1Z2EofoFSVMGUR2vgHbtBXM9mt5LPr4GM/view?usp=sharing) or in [english](https://drive.google.com/file/d/1eZsyEhLUXrKM4uO8DmW_VDLSQPsLkTEj/view?usp=sharing)
 <br>
 
@@ -22,19 +22,19 @@
 Technologies I already develop ⌨️
   <br>
   <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="80" height="80"/>
-<img src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" alt="tailwindcss" width="80" height="80"/>
-<img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" alt="ant-design" width="90" height="90"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="80" height="80"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/>
-<img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="nextjs" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="70" height="70"/>
+<img src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" alt="tailwindcss" width="70" height="70"/>
+<img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" alt="ant-design" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
+<img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="nextjs" width="70" height="70"/>
   <br>
   <br>
   Technologies that are on my learning radar 🔎
   <br>
   <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node" width="90" height="90"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="sqlite" width="90" height="90"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node" width="80" height="80"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="sqlite" width="80" height="80"/>
   <br>
 </p>
 <br>
