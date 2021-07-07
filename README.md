@@ -7,7 +7,7 @@
 - 👨‍💻 I am currently working on [Combate à Fraude](https://github.com/combateafraude)
 - 🎓 Studying Systems Analysis and Development at [Univates](https://www.univates.br/)
 - 🎓 Graduated from [Rocketseat's Bootcamp Ignite](https://rocketseat.com.br/ignite)
-- 📝 Check out my Resume in [portuguese](https://drive.google.com/file/d/1Z2EofoFSVMGUR2vgHbtBXM9mt5LPr4GM/view?usp=sharing) or in [english](https://drive.google.com/file/d/1eZsyEhLUXrKM4uO8DmW_VDLSQPsLkTEj/view?usp=sharing)
+- 📝 Check out my Resume in [portuguese](https://drive.google.com/file/d/1RFXYNDyWaVwsY2U6JyP11gDAJqDn8Lc5/view?usp=sharing) or in [english](https://drive.google.com/file/d/1iJ18M-Ey6BIadU-iDYZ-8E2Vf_tKl8l_/view?usp=sharing)
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Cruz-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend/)](https://www.linkedin.com/in/matheus-cruz-frontend/) 
