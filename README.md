@@ -7,7 +7,7 @@
 - 👨‍💻 I am currently working on [Combate à Fraude](https://github.com/combateafraude)
 - 🎓 Studying Systems Analysis and Development at [Univates](https://www.univates.br/)
 - 🎓 Graduated from [Rocketseat's Bootcamp Ignite](https://rocketseat.com.br/ignite)
-- 👨‍🚀 [Ignite Cosmonaut](https://drive.google.com/file/d/1spRIoobb3GCRFCL1iySDFACW8moqpp0W/view?usp=sharing)
+- 👨‍🚀 [Alumni](https://drive.google.com/file/d/1spRIoobb3GCRFCL1iySDFACW8moqpp0W/view?usp=sharing) at [Rocketseat](https://app.rocketseat.com.br/)
 - 📝 Check out my Resume in [portuguese](https://drive.google.com/file/d/1ZfinsEFHnzdM1HcSQGqnBL2MsvkcKwur/view?usp=sharing) or in [english](https://drive.google.com/file/d/1Qxf-iSQkecG-lHKEe8Fxu1nupmZDo1wS/view?usp=sharing)
 <br>
 
