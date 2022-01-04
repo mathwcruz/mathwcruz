@@ -26,6 +26,7 @@ Technologies I already develop ⌨️
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="70" height="70"/>
 <img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" alt="ant-design" width="70" height="70"/>
+<img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" alt="chakra-ui" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
 <img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="nextjs" width="70" height="70"/>
