@@ -4,7 +4,7 @@
 
 <br>
 
-- 👨‍💻 I am currently working on [Combate à Fraude](https://github.com/combateafraude)
+- 👨‍💻 I am currently working on [Combate à Fraude](https://www.combateafraude.com)
 - 🎓 Studying Systems Analysis and Development at [Univates](https://www.univates.br/)
 - 🎓 Graduated from [Rocketseat's Bootcamp Ignite](https://drive.google.com/file/d/1spRIoobb3GCRFCL1iySDFACW8moqpp0W/view?usp=sharing)
 - 👨‍🚀 Alumni at [Rocketseat](https://app.rocketseat.com.br/)
