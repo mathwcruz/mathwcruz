@@ -35,8 +35,7 @@ Technologies I already develop ⌨️
   Technologies that are on my learning radar 🔎
   <br>
   <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node" width="80" height="80"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="sqlite" width="80" height="80"/>
+<img src="https://camo.githubusercontent.com/13a26da4d86b39347b80d6dab381b67c7aa65768ca113786414c0e8b5cc18773/68747470733a2f2f6d6175726963696f6d696b756c736b692e6769746875622e696f2f696d672f6c6f676f732f72656163746e61746976652e706e67" alt="react-native" width="80" height="80"/>
   <br>
 </p>
 <br>
