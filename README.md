@@ -2,14 +2,13 @@
 <h2 align="center">A front end developer in continuous learning and cryptocurrency enthusiast</h2>
 <h3 align="center">I also love to travel and topics related to astronomy and economics 🌎 💲</h3>
 
-<br>
+<p>&nbsp;</p>
 
 - 👨‍💻 I am currently working on [Combate à Fraude](https://www.combateafraude.com)
 - 🎓 Studying Systems Analysis and Development at [Univates](https://www.univates.br/)
 - 🎓 Graduated from [Rocketseat's Bootcamp Ignite](https://drive.google.com/file/d/1spRIoobb3GCRFCL1iySDFACW8moqpp0W/view?usp=sharing)
 - 👨‍🚀 Alumni at [Rocketseat](https://app.rocketseat.com.br/)
 - 📝 Check out my Resume in [portuguese](https://drive.google.com/file/d/1S42HWk63MbdHAW0jQBJGS9EwBvBioGy2/view?usp=sharing) or in [english](https://drive.google.com/file/d/1lMRDzprxgvRTHzh70PPyHihNiBJS8738/view?usp=sharing)
-<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Cruz-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend/)](https://www.linkedin.com/in/matheus-cruz-frontend/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
@@ -17,7 +16,16 @@
     <img src="https://img.shields.io/badge/-Rocketseat-3000cc?style=flat-square&logoColor=white&color=3000cc&link=https://app.rocketseat.com.br/me/matheus-wachholtz-da-cruz" alt="Cruz's Rocketseat profile" />
 </a>
 
-<br>
+<h2>My main career goals are:</h2>
+    1. Specialize in the Front End branch, become a reference specialist in the market
+    <br>
+    2. Solve a major global problem through technology
+    <br>
+    3. Combine personal hobbies with technology
+    <br>
+    4. Generate value for society
+    
+<p>&nbsp;</p>
 
 <p align="center">
 Technologies I already develop ⌨️
