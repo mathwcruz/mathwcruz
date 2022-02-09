@@ -8,6 +8,7 @@
 - 🎓 Studying Systems Analysis and Development at [Univates](https://www.univates.br/)
 - 🎓 Graduated from [Rocketseat's Bootcamp Ignite](https://drive.google.com/file/d/1spRIoobb3GCRFCL1iySDFACW8moqpp0W/view?usp=sharing)
 - 👨‍🚀 Alumni at [Rocketseat](https://app.rocketseat.com.br/)
+- 📂 You can see my [portfolio](https://matheus-da-cruz-portfolio.vercel.app/)
 - 📝 Check out my Resume in [portuguese](https://drive.google.com/file/d/1S42HWk63MbdHAW0jQBJGS9EwBvBioGy2/view?usp=sharing) or in [english](https://drive.google.com/file/d/1lMRDzprxgvRTHzh70PPyHihNiBJS8738/view?usp=sharing)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Cruz-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend/)](https://www.linkedin.com/in/matheus-cruz-frontend/) 
