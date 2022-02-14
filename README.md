@@ -32,19 +32,21 @@
 Technologies I already develop ⌨️
   <br>
   <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="70" height="70"/>
-<img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" alt="ant-design" width="70" height="70"/>
-<img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" alt="chakra-ui" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
-<img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="nextjs" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/sass_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvc2Fzc19pY29uLnN2ZyIsImlhdCI6MTY0NDgwODMyOSwiZXhwIjoxOTYwMTY4MzI5fQ.AA2df71jPRS2kHu75PvhTBIhbFoxjqb-S1iF5IZH57Q" alt="Sass" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/tailwindcss_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvdGFpbHdpbmRjc3NfaWNvbi5zdmciLCJpYXQiOjE2NDQ4MDgzMTksImV4cCI6MTk2MDE2ODMxOX0.aC20wq5mdxXAGS_axOfKfoaGGhr-axoU1Hpbi8haR6Y" alt="tailwindcss" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/ant_design_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvYW50X2Rlc2lnbl9pY29uLnBuZyIsImlhdCI6MTY0NDgwODMxMSwiZXhwIjoxOTYwMTY4MzExfQ.JXeEtT79z-FkzGsBquC4OZ-oLq7ViYLALLfPwctrMwU" alt="ant-design" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/chakra_ui_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvY2hha3JhX3VpX2ljb24ucG5nIiwiaWF0IjoxNjQ0ODA4MzAyLCJleHAiOjE5NjAxNjgzMDJ9.dpzNU2d-yv1QdDwfUrdmiUJ_W_qeIMEds3pegT4eeQQ" alt="chakra-ui" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/react_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvcmVhY3RfaWNvbi5zdmciLCJpYXQiOjE2NDQ4MDgyODQsImV4cCI6MTk2MDE2ODI4NH0.easqCWhhkJ0yPZlu_-xOXK_GmdeGRBYPgmnBeTuNAlA" alt="react-js" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/typescript_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvdHlwZXNjcmlwdF9pY29uLnN2ZyIsImlhdCI6MTY0NDgwODI3MywiZXhwIjoxOTYwMTY4MjczfQ.618MyoJBbhzQHLLDsDfwzlOliO4qPxBrRyCK7j9xTtA" alt="typescript" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/next_js_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvbmV4dF9qc19pY29uLnN2ZyIsImlhdCI6MTY0NDgwODE5NywiZXhwIjoxOTYwMTY4MTk3fQ.G_sAJbrruJSKSPOzj9Admc-afqeDBsIuhq0mI29EP7o" alt="next-js" width="70" height="70"/>
   <br>
   <br>
-  Technologies that are on my learning radar 🔎
+  Technologies that I'm learning 📖
   <br>
   <br>
-<img src="https://camo.githubusercontent.com/13a26da4d86b39347b80d6dab381b67c7aa65768ca113786414c0e8b5cc18773/68747470733a2f2f6d6175726963696f6d696b756c736b692e6769746875622e696f2f696d672f6c6f676f732f72656163746e61746976652e706e67" alt="react-native" width="80" height="80"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/supabase_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvc3VwYWJhc2VfaWNvbi5wbmciLCJpYXQiOjE2NDQ4MDgxNDksImV4cCI6MTk2MDE2ODE0OX0.raug4lkqp7m7ZmLA8tmyjxh-I38NfP_DeJkTWXX3Adw" alt="supabase" width="80" height="70"/>
+    
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/react_native_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvcmVhY3RfbmF0aXZlX2ljb24uc3ZnIiwiaWF0IjoxNjQ0ODA4NzA5LCJleHAiOjE5NjAxNjg3MDl9.2_ag9-S9XW0iTsLBgZfLfK0CYMpbIyUb6CoW5J5op28" alt="react-native" width="80" height="70"/>
   <br>
 </p>
 <br>
