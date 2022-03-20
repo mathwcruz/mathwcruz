@@ -9,7 +9,7 @@
 - 🎓 Graduated from [Rocketseat's Bootcamp Ignite](https://drive.google.com/file/d/1spRIoobb3GCRFCL1iySDFACW8moqpp0W/view?usp=sharing)
 - 👨‍🚀 Alumni at [Rocketseat](https://app.rocketseat.com.br/)
 - 📂 You can see my [portfolio](https://matheus-da-cruz-portfolio.vercel.app/)
-- 📝 Check out my Resume in [portuguese](https://drive.google.com/file/d/1wgVun2w4MfPRKYw7x2LK9BO9g7mrds2m/view?usp=sharing) or in [english](https://drive.google.com/file/d/1rxuf5pH35IcdDN8BLA2dDk5FNnfqzmL-/view?usp=sharing)
+- 📝 Check out my Resume in [portuguese](https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/resumes/curriculo-matheus-da-cruz.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZXN1bWVzL2N1cnJpY3Vsby1tYXRoZXVzLWRhLWNydXoucGRmIiwiaWF0IjoxNjQ3Nzk5MzU5LCJleHAiOjE5NjMxNTkzNTl9.mIEUnbosNOwSI31S8QzrQrTAOQi0h5tljnGVq4T6U7g) or in [english](https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/resumes/resume-matheus-da-cruz.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZXN1bWVzL3Jlc3VtZS1tYXRoZXVzLWRhLWNydXoucGRmIiwiaWF0IjoxNjQ3Nzk5MzQ5LCJleHAiOjE5NjMxNTkzNDl9.tUGGcY9DwE3h8XaGZyKcSwd6ngYoMgmmQWDsTxRVRII)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Cruz-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend/)](https://www.linkedin.com/in/matheus-cruz-frontend/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
