@@ -45,9 +45,7 @@ Technologies I already develop ⌨️
   <br>
   <br>
 <img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/supabase_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvc3VwYWJhc2VfaWNvbi5wbmciLCJpYXQiOjE2NDQ4MDgxNDksImV4cCI6MTk2MDE2ODE0OX0.raug4lkqp7m7ZmLA8tmyjxh-I38NfP_DeJkTWXX3Adw" alt="supabase" width="80" height="70"/>
-    
-<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/react_native_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvcmVhY3RfbmF0aXZlX2ljb24uc3ZnIiwiaWF0IjoxNjQ0ODA4NzA5LCJleHAiOjE5NjAxNjg3MDl9.2_ag9-S9XW0iTsLBgZfLfK0CYMpbIyUb6CoW5J5op28" alt="react-native" width="80" height="70"/>
-  <br>
+<br>
 </p>
 <br>
 
