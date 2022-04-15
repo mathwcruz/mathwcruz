@@ -13,9 +13,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Cruz-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend/)](https://www.linkedin.com/in/matheus-cruz-frontend/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
-<a href="https://app.rocketseat.com.br/me/matheus-da-cruz-frontend">
-    <img src="https://img.shields.io/badge/-Rocketseat-3000cc?style=flat-square&logoColor=white&color=3000cc&link=https://app.rocketseat.com.br/me/matheus-wachholtz-da-cruz" alt="Cruz's Rocketseat profile" />
-</a>
 
 <h2>My main career goals are:</h2>
     1. Specialize in the Front End branch, become a reference specialist in the market
