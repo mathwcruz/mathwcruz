@@ -42,7 +42,6 @@ Technologies I already develop ⌨️
   <br>
   <br>
 <img src="https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/projects-technologies-icons/graph_ql_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvZ3JhcGhfcWxfaWNvbi5wbmciLCJpYXQiOjE2NDkxOTY4MDgsImV4cCI6MTk2NDU1NjgwOH0.N6X1uI-9FdTr24VV1fnTzoXfuLbIkrwpUvq2kcvZpyI" alt="graph-ql" width="80" height="70"/>
-<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/supabase_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvc3VwYWJhc2VfaWNvbi5wbmciLCJpYXQiOjE2NDQ4MDgxNDksImV4cCI6MTk2MDE2ODE0OX0.raug4lkqp7m7ZmLA8tmyjxh-I38NfP_DeJkTWXX3Adw" alt="supabase" width="80" height="70"/>
 <br>
 </p>
 <br>
