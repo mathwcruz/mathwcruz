@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus da Cruz</h1>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus da Cruz</h1> -->
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/resumes/Linkedin Banner.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZXN1bWVzL0xpbmtlZGluIEJhbm5lci5wbmciLCJpYXQiOjE2NTEzNjAzMjAsImV4cCI6MTk2NjcyMDMyMH0.ouw9TRUV-lDPbs-8KaNw_N5K4wxopQ809urgd-he3lo" alt="banner about my main programming skills" width="1584"/>
 <h2 align="center">A front end developer in continuous learning and cryptocurrency enthusiast</h2>
 <h3 align="center">I also love to travel and topics related to astronomy and economics 🌎 💲</h3>
 
@@ -30,14 +31,14 @@ Main Stack 👑
   <br>
   <br>
 <img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/react_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvcmVhY3RfaWNvbi5zdmciLCJpYXQiOjE2NDQ4MDgyODQsImV4cCI6MTk2MDE2ODI4NH0.easqCWhhkJ0yPZlu_-xOXK_GmdeGRBYPgmnBeTuNAlA" alt="react-js" width="60" height="60"/>
-<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/typescript_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvdHlwZXNjcmlwdF9pY29uLnN2ZyIsImlhdCI6MTY0NDgwODI3MywiZXhwIjoxOTYwMTY4MjczfQ.618MyoJBbhzQHLLDsDfwzlOliO4qPxBrRyCK7j9xTtA" alt="typescript" width="60" height="60"/>
 <img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/next_js_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvbmV4dF9qc19pY29uLnN2ZyIsImlhdCI6MTY0NDgwODE5NywiZXhwIjoxOTYwMTY4MTk3fQ.G_sAJbrruJSKSPOzj9Admc-afqeDBsIuhq0mI29EP7o" alt="next-js" width="60" height="60"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/projects-technologies-icons/graph_ql_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvZ3JhcGhfcWxfaWNvbi5wbmciLCJpYXQiOjE2NDkxOTY4MDgsImV4cCI6MTk2NDU1NjgwOH0.N6X1uI-9FdTr24VV1fnTzoXfuLbIkrwpUvq2kcvZpyI" alt="graph-ql" width="60" height="60"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/typescript_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvdHlwZXNjcmlwdF9pY29uLnN2ZyIsImlhdCI6MTY0NDgwODI3MywiZXhwIjoxOTYwMTY4MjczfQ.618MyoJBbhzQHLLDsDfwzlOliO4qPxBrRyCK7j9xTtA" alt="typescript" width="60" height="60"/>
   <br>
   <br>
       Technologies I'm learning right now 👨‍💻
   <br>
   <br>
-<img src="https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/projects-technologies-icons/graph_ql_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvZ3JhcGhfcWxfaWNvbi5wbmciLCJpYXQiOjE2NDkxOTY4MDgsImV4cCI6MTk2NDU1NjgwOH0.N6X1uI-9FdTr24VV1fnTzoXfuLbIkrwpUvq2kcvZpyI" alt="graph-ql" width="60" height="60"/>
 <img src="https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/projects-technologies-icons/redux_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvcmVkdXhfaWNvbi5wbmciLCJpYXQiOjE2NTA4MTgyNTIsImV4cCI6MTk2NjE3ODI1Mn0.AxBYxL05LMZJ35Ix0rL7vdBiMv21U2tDUKzxOiHlbWw" alt="redux" width="60" height="60"/>
   <br>
   <br>
