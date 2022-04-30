@@ -1,5 +1,4 @@
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus da Cruz</h1> -->
-<img src="https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/resumes/Linkedin Banner.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZXN1bWVzL0xpbmtlZGluIEJhbm5lci5wbmciLCJpYXQiOjE2NTEzNjAzMjAsImV4cCI6MTk2NjcyMDMyMH0.ouw9TRUV-lDPbs-8KaNw_N5K4wxopQ809urgd-he3lo" alt="banner about my main programming skills" width="1584"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/projects-banners/other/profile-banner.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy1iYW5uZXJzL290aGVyL3Byb2ZpbGUtYmFubmVyLnBuZyIsImlhdCI6MTY1MTM2MDUwNiwiZXhwIjoxOTY2NzIwNTA2fQ.7ko3ch93B_TrCQE8YiyBduqmIC-rC7BfjxG2n9zP-WY" alt="banner about my main programming skills" width="1584"/>
 <h2 align="center">A front end developer in continuous learning and cryptocurrency enthusiast</h2>
 <h3 align="center">I also love to travel and topics related to astronomy and economics 🌎 💲</h3>
 
