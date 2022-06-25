@@ -4,10 +4,9 @@
 
 <p>&nbsp;</p>
 
-- 👨‍💻 I am currently working at [Combate à Fraude](https://www.combateafraude.com)
-- 🎓 Studying Systems Analysis and Development at [Univates](https://www.univates.br/)
-- 🎓 Graduated from [Rocketseat's Bootcamp Ignite](https://drive.google.com/file/d/1spRIoobb3GCRFCL1iySDFACW8moqpp0W/view?usp=sharing)
-- 👨‍🚀 Alumni at [Rocketseat](https://app.rocketseat.com.br/)
+- 👨‍💻 I'm currently working at [Combate à Fraude](https://www.combateafraude.com)
+- 🎓 Undergraduating in Systems Analysis and Development at [Univates](https://www.univates.br/)
+- 🎓 Undergraduated in [Rocketseat's Bootcamp Ignite](https://drive.google.com/file/d/1spRIoobb3GCRFCL1iySDFACW8moqpp0W/view?usp=sharing)
 - 📂 You can see my [portfolio](https://matheus-da-cruz-portfolio.vercel.app/)
 - 📝 Check out my resume in [english](https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/resumes/matheus-da-cruz-resume.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZXN1bWVzL21hdGhldXMtZGEtY3J1ei1yZXN1bWUucGRmIiwiaWF0IjoxNjU1NjY0NDAxLCJleHAiOjE5NzEwMjQ0MDF9.Reej9meD1ju7HpsHgrCN8B8BaTGd4mV9ZBdVoLUKCNo) or in [portuguese](https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/resumes/curriculo-matheus-da-cruz.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZXN1bWVzL2N1cnJpY3Vsby1tYXRoZXVzLWRhLWNydXoucGRmIiwiaWF0IjoxNjU1NjY0NzI3LCJleHAiOjE5NzEwMjQ3Mjd9._as_JInOXCGZ4cE9BMFIXP-b2zXc_A_cHbGxtm55rg0)
 
@@ -15,13 +14,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
 
 <h2>My main career goals are:</h2>
-    1. Specialize in the Front End branch, become a reference specialist in the market
+    1. to specialize myself in the Front End branch, to become a reference specialist in the market
     <br>
-    2. Solve a major global problem through technology
+    2. to solve a major global problem through technology
     <br>
-    3. Combine personal hobbies with technology
+    3. to join personal hobbies with technology
     <br>
-    4. Generate as much value as possible to society
+    4. to generate value to society as much value as possible 
     
 <p>&nbsp;</p>
 
