@@ -38,6 +38,9 @@ Main Stack 👑
   <br>
   <br>
 <img src="https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/projects-technologies-icons/redux_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvcmVkdXhfaWNvbi5wbmciLCJpYXQiOjE2NTA4MTgyNTIsImV4cCI6MTk2NjE3ODI1Mn0.AxBYxL05LMZJ35Ix0rL7vdBiMv21U2tDUKzxOiHlbWw" alt="redux" width="60" height="60"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/projects-technologies-icons/jest_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvamVzdF9pY29uLnN2ZyIsImlhdCI6MTY2MzYyNzkxNCwiZXhwIjoxOTc4OTg3OTE0fQ.IWypLkBxW0J0JE91mUgH2LVjY35Wi3Wrlp8cw6S-KB4" alt="jest" width="60" height="60"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/projects-technologies-icons/testing-library_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvdGVzdGluZy1saWJyYXJ5X2ljb24ucG5nIiwiaWF0IjoxNjYzNjI3OTIxLCJleHAiOjE5Nzg5ODc5MjF9.htZ2CF5fZwImGLL9bIkixa3m0LhEL3qLs87o0Y2QTd4" alt="testing-library" width="60" height="60"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/projects-technologies-icons/cypress_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvY3lwcmVzc19pY29uLnN2ZyIsImlhdCI6MTY2MzYyNzkyOCwiZXhwIjoxOTc4OTg3OTI4fQ.piWBSHJjFcJ2Tj4ZSgfjW1R_Gl4gqqajU8xpmSqnN58" alt="cypress" width="60" height="60"/>
   <br>
   <br>
     Other technologies I've used in personal and/or professional projects 🛠️
