@@ -5,8 +5,8 @@
 <p>&nbsp;</p>
 
 - 👨‍💻 I'm currently working at [ADP Brazil Labs](https://br.adp.com)
-- 🎓 Undergraduating in Systems Analysis and Development at [Univates](https://www.univates.br/)
-- 🎓 Undergraduated in [Rocketseat's Bootcamp Ignite](https://drive.google.com/file/d/1spRIoobb3GCRFCL1iySDFACW8moqpp0W/view?usp=sharing)
+- 🎓 Undergraduated in Systems Analysis and Development at [Univates](https://www.univates.br/)
+- 🎓 I have [Rocketseat's Bootcamp Ignite's](https://drive.google.com/file/d/1spRIoobb3GCRFCL1iySDFACW8moqpp0W/view?usp=sharing) certificate
 - 📂 You can see my [portfolio](https://matheus-da-cruz-portfolio.vercel.app/)
 - 📝 Check out my resume in [english](https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/resumes/matheus-da-cruz's-resume.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZXN1bWVzL21hdGhldXMtZGEtY3J1eidzLXJlc3VtZS5wZGYiLCJ0cmFuc2Zvcm1hdGlvbnMiOiIiLCJpYXQiOjE2NzMxOTY4NjYsImV4cCI6MTk4ODU1Njg2Nn0.AH6Tnzf_8lDujZ5urWhmQ9KLT6T2UOFpAvuQDTogYVw&t=2023-01-08T16%3A54%3A26.966Z) or in [portuguese](https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/resumes/curriculo-matheus-da-cruz.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZXN1bWVzL2N1cnJpY3Vsby1tYXRoZXVzLWRhLWNydXoucGRmIiwidHJhbnNmb3JtYXRpb25zIjoiIiwiaWF0IjoxNjczMTk2ODcyLCJleHAiOjE5ODg1NTY4NzJ9.d08vj1XEWAbTmqenpkaN-V5N983y5gK-CZoLwhWJqqE&t=2023-01-08T16%3A54%3A32.088Z)
 
