@@ -1,26 +1,25 @@
 <img src="https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/projects-banners/other/profile-banner.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy1iYW5uZXJzL290aGVyL3Byb2ZpbGUtYmFubmVyLnBuZyIsImlhdCI6MTY1MTM2MDUwNiwiZXhwIjoxOTY2NzIwNTA2fQ.7ko3ch93B_TrCQE8YiyBduqmIC-rC7BfjxG2n9zP-WY" alt="banner about my main programming skills" width="1584"/>
-<h2 align="center">A front end developer in continuous learning and cryptocurrency enthusiast</h2>
-<h3 align="center">I also love to travel and topics related to astronomy and economics 🌎 💲</h3>
+<h2 align="center">I'm a Front-End developer who is always evolving</h2>
+<h3 align="center">I also love to travel, read, and study economics 🌎 💲</h3>
 
 <p>&nbsp;</p>
 
 - 👨‍💻 I'm currently working at [ADP Brazil Labs](https://br.adp.com)
 - 🎓 Associate Degree in Systems Analysis and Development at [Univates](https://www.univates.br/)
-- 🎓 I have [Rocketseat's Bootcamp Ignite's](https://drive.google.com/file/d/1spRIoobb3GCRFCL1iySDFACW8moqpp0W/view?usp=sharing) certificate
-- 📂 You can see my [portfolio](https://matheus-da-cruz-portfolio.vercel.app/)
-- 📝 Check out my resume either in [english](https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/resumes/resume-matheus-wachholtz-da-cruz.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZXN1bWVzL3Jlc3VtZS1tYXRoZXVzLXdhY2hob2x0ei1kYS1jcnV6LnBkZiIsImlhdCI6MTcyNTEzNTk1OCwiZXhwIjoxNzU2NjcxOTU4fQ.8-2OiMyqS2ApJQMabMgnoiZvDSusdrubAPWElM8UZXA&t=2024-08-31T20%3A25%3A58.150Z) or in [portuguese](https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/resumes/curriculo-matheus-wachholtz-da-cruz.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZXN1bWVzL2N1cnJpY3Vsby1tYXRoZXVzLXdhY2hob2x0ei1kYS1jcnV6LnBkZiIsImlhdCI6MTcyNTEzNDYyNSwiZXhwIjoxNzU2NjcwNjI1fQ.RnCWx-fcvIfWRbv2VMkEfKc9mUNkIZgLbAxWc4W6aiY&t=2024-08-31T20%3A03%3A45.518Z)
+- 📂 You can check out my portfolio by clicking [here](https://matheus-da-cruz-portfolio.vercel.app/)
+- 📝 You can check out my resume in both [English](https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/resumes/resume-matheus-wachholtz-da-cruz.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZXN1bWVzL3Jlc3VtZS1tYXRoZXVzLXdhY2hob2x0ei1kYS1jcnV6LnBkZiIsImlhdCI6MTcyNTEzNTk1OCwiZXhwIjoxNzU2NjcxOTU4fQ.8-2OiMyqS2ApJQMabMgnoiZvDSusdrubAPWElM8UZXA&t=2024-08-31T20%3A25%3A58.150Z) and [Portuguese](https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/resumes/curriculo-matheus-wachholtz-da-cruz.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZXN1bWVzL2N1cnJpY3Vsby1tYXRoZXVzLXdhY2hob2x0ei1kYS1jcnV6LnBkZiIsImlhdCI6MTcyNTEzNDYyNSwiZXhwIjoxNzU2NjcwNjI1fQ.RnCWx-fcvIfWRbv2VMkEfKc9mUNkIZgLbAxWc4W6aiY&t=2024-08-31T20%3A03%3A45.518Z)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Cruz-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend/)](https://www.linkedin.com/in/matheus-cruz-frontend/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
 
 <h2>My main career goals are:</h2>
-    1. to specialize myself in the Front End branch, to become a reference specialist in the market
+    1. to become a Front-End specialist
     <br>
-    2. to solve a major global problem through technology
+    2. to be a market reference in this field
     <br>
-    3. to join personal hobbies with technology
+    3. o generate the highest possible value for society
     <br>
-    4. to generate value to society as much value as possible 
+    4. to be part of a team that will solve a major global problem through technology
     
 <p>&nbsp;</p>
 
@@ -40,7 +39,7 @@ Main Stack 👑
 <img src="https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/projects-technologies-icons/cypress_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvY3lwcmVzc19pY29uLnN2ZyIsImlhdCI6MTY2MzYyNzkyOCwiZXhwIjoxOTc4OTg3OTI4fQ.piWBSHJjFcJ2Tj4ZSgfjW1R_Gl4gqqajU8xpmSqnN58" alt="cypress" width="60" height="60"/>
   <br>
   <br>
-    Other technologies I've used in personal and/or professional projects 🛠️
+    Other technologies that I have used in personal and professional projects 🛠️
   <br>
   <br>
 <img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/sass_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvc2Fzc19pY29uLnN2ZyIsImlhdCI6MTY0NDgwODMyOSwiZXhwIjoxOTYwMTY4MzI5fQ.AA2df71jPRS2kHu75PvhTBIhbFoxjqb-S1iF5IZH57Q" alt="sass" width="60" height="60"/>
