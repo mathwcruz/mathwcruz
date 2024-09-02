@@ -1,6 +1,6 @@
 <img src="https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/projects-banners/other/profile-banner.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy1iYW5uZXJzL290aGVyL3Byb2ZpbGUtYmFubmVyLnBuZyIsImlhdCI6MTY1MTM2MDUwNiwiZXhwIjoxOTY2NzIwNTA2fQ.7ko3ch93B_TrCQE8YiyBduqmIC-rC7BfjxG2n9zP-WY" alt="banner about my main programming skills" width="1584"/>
 <h2 align="center">I'm a Front-End developer who is always evolving</h2>
-<h3 align="center">I also love to travel, read, and study economics 🌎 💲</h3>
+<h3 align="center">I also love to travel, read and study economics 🌎 💲</h3>
 
 <p>&nbsp;</p>
 
