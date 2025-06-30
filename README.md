@@ -1,6 +1,6 @@
 <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/other//profile-banner.jpeg" alt="banner about my main programming skills" width="1584"/>
 <h2 align="center">I'm a Front-End developer who is always evolving</h2>
-<h3 align="center">I also love to travel, read and study economics 🌎 💲</h3>
+<h3 align="center">I also love to travel, to read, to work out and to study economics 🌎 </h3>
 
 <p>&nbsp;</p>
 
