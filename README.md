@@ -7,7 +7,7 @@
 - 👨‍💻 I'm currently working at [ADP Brazil Labs](https://br.adp.com)
 - 🎓 Associate Degree in Systems Analysis and Development at [Univates](https://www.univates.br/)
 - 📂 You can check out my portfolio by clicking [here](https://matheus-da-cruz-portfolio.vercel.app/)
-- 📝 You can check out my resume in both [English](https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/resumes/resume-matheus-wachholtz-da-cruz.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZXN1bWVzL3Jlc3VtZS1tYXRoZXVzLXdhY2hob2x0ei1kYS1jcnV6LnBkZiIsImlhdCI6MTcyNTEzNTk1OCwiZXhwIjoxNzU2NjcxOTU4fQ.8-2OiMyqS2ApJQMabMgnoiZvDSusdrubAPWElM8UZXA&t=2024-08-31T20%3A25%3A58.150Z) and [Portuguese](https://xnrzwkuslogyvxcfkyyh.supabase.co/storage/v1/object/sign/resumes/curriculo-matheus-wachholtz-da-cruz.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZXN1bWVzL2N1cnJpY3Vsby1tYXRoZXVzLXdhY2hob2x0ei1kYS1jcnV6LnBkZiIsImlhdCI6MTcyNTEzNDYyNSwiZXhwIjoxNzU2NjcwNjI1fQ.RnCWx-fcvIfWRbv2VMkEfKc9mUNkIZgLbAxWc4W6aiY&t=2024-08-31T20%3A03%3A45.518Z)
+- 📝 You can check out my resume in both [English](https://drive.google.com/file/d/1r2ULeST-vPqZF4ED19fUE0ZNUZtc0oz8/view?usp=sharing) and [Portuguese](https://drive.google.com/file/d/119Zx0c52VjSGPxLJh4EKoz0Zj3uonP3J/view?usp=sharing)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Cruz-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend/)](https://www.linkedin.com/in/matheus-cruz-frontend/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
