@@ -17,7 +17,7 @@
     <br>
     2. to be a market reference in this field
     <br>
-    3. o generate the highest possible value for society
+    3. to generate the highest possible value for society
     <br>
     4. to be part of a team that will solve a major global problem through technology
     
