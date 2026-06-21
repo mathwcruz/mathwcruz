@@ -40,12 +40,9 @@ Main Stack 👑
  <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//less_icon.svg" alt="less" width="60" height="60"/>
 <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//styled_components_icon.png" alt="styled-components" width="60" height="60"/>
 <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//tailwindcss_icon.svg" alt="tailwindcss" width="60" height="60"/>
-<img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//ant_design_icon.png" alt="ant-design" width="60" height="60"/>
-<img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//chakra_ui_icon.png" alt="chakra-ui" width="60" height="60"/>
   <br>
   <br>
 <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//framer_motion_icon.png" alt="framer-motion" width="60" height="60"/>
-<img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//firebase_icon.svg" alt="firebase" width="60" height="60"/>
 <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//jest_icon.svg" alt="jest" width="60" height="60"/>
 <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//testing-library_icon.png" alt="testing-library" width="60" height="60"/>
 <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//redux_icon.png" alt="redux" width="60" height="60"/>
@@ -53,9 +50,3 @@ Main Stack 👑
 <br>
 </p>
 <br>
-
-<p align="center">
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=mathwcruz&show_icons=true&theme=dracula" alt="Cruz's stats" height=170 />
-  </span>
-</p>
