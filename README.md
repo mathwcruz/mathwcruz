@@ -4,8 +4,8 @@
 
 <p>&nbsp;</p>
 
-- 🎓 Associate Degree in Systems Analysis and Development at [Univates](https://www.univates.br/)
-- 📂 You can check out my portfolio by clicking [here](https://matheus-da-cruz-portfolio.vercel.app/)
+- 🎓 Associate Degree in Systems Analysis and Development at [Univates](https://www.univates.br)
+- 📂 You can check out my portfolio by clicking [here](https://www.matheusdacruz.dev)
 - 📝 You can check out my resume in both [English](https://drive.google.com/file/d/18XoezkRcjDF4hE3ZlpSj_HZ5NuqwL-o6/view?usp=sharing) and [Portuguese](https://drive.google.com/file/d/1_5zfXTSVqQj9Gfh0HGw26WfZcKf4wMnV/view?usp=sharing)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Cruz-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend/)](https://www.linkedin.com/in/matheus-cruz-frontend/) 
