@@ -4,7 +4,6 @@
 
 <p>&nbsp;</p>
 
-- 👨‍💻 I'm currently working at [ADP Brazil Labs](https://br.adp.com)
 - 🎓 Associate Degree in Systems Analysis and Development at [Univates](https://www.univates.br/)
 - 📂 You can check out my portfolio by clicking [here](https://matheus-da-cruz-portfolio.vercel.app/)
 - 📝 You can check out my resume in both [English](https://drive.google.com/file/d/18XoezkRcjDF4hE3ZlpSj_HZ5NuqwL-o6/view?usp=sharing) and [Portuguese](https://drive.google.com/file/d/1_5zfXTSVqQj9Gfh0HGw26WfZcKf4wMnV/view?usp=sharing)
