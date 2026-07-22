@@ -9,7 +9,7 @@
 - 🎓 &nbsp;Associate Degree in Systems Analysis and Development — [Univates](https://www.univates.br)
 - 🛠️ &nbsp;Front-End specialist with working proficiency in Back-End development
 - 📂 &nbsp;Portfolio: [matheusdacruz.dev](https://www.matheusdacruz.dev)
-- 📝 &nbsp;Resume: [English version](https://drive.google.com/file/d/1wOw6z8DtG7dVKndUtZjMplb_t6_AIC3c/view?usp=sharing) | [Portuguese version](https://drive.google.com/file/d/1_5zfXTSVqQj9Gfh0HGw26WfZcKf4wMnV/view?usp=sharing)
+- 📝 &nbsp;Resume: [English version](https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/resumes/resume-matheus-wachholtz-da-cruz.pdf) | [Portuguese version](https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/resumes/curriculo-matheus-wachholtz-da-cruz.pdf)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Cruz-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-wach-cruz-/)](https://www.linkedin.com/in/matheus-wach-cruz/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
