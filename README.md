@@ -1,11 +1,13 @@
 <p align="center">
   <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/other/profile-banner.jpeg" alt="banner about my main programming skills" width="668" />
 </p>
-<h1 align="center">🚀 &nbsp;Front-End Developer</h2>
-<h3 align="center">🖥️ &nbsp;React, Next & TypeScript</h2>
-<h4 align="center">Outside of code: reading, working out, traveling, cycling, and hanging out with friends &nbsp;🌎</h3>
+<h1 align="center">🚀 &nbsp;Front-End Developer</h1>
+<h3 align="center">🖥️ &nbsp;React, Next & TypeScript</h3>
+<h3 align="center">🔧 &nbsp;Node.js, Express, Typescript, Prisma, PostgreSQL</h3>
+<h4 align="center">Outside of code: reading, working out, traveling, cycling, and hanging out with friends &nbsp;🌎</h4>
 
 - 🎓 &nbsp;Associate Degree in Systems Analysis and Development — [Univates](https://www.univates.br)
+- 🛠️ &nbsp;Front-End specialist with working proficiency in Back-End development
 - 📂 &nbsp;Portfolio: [matheusdacruz.dev](https://www.matheusdacruz.dev)
 - 📝 &nbsp;Resume: [English version](https://drive.google.com/file/d/1wOw6z8DtG7dVKndUtZjMplb_t6_AIC3c/view?usp=sharing) | [Portuguese version](https://drive.google.com/file/d/1_5zfXTSVqQj9Gfh0HGw26WfZcKf4wMnV/view?usp=sharing)
 
@@ -23,7 +25,7 @@
 
 <p>&nbsp;</p>
 <p align="center">
-Main Stack&nbsp; ⚙️
+    Front-End&nbsp; 🖥️
   <br>
   <br>
 <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//react_icon.svg" alt="react-js" width="60" height="60"/>
@@ -32,14 +34,23 @@ Main Stack&nbsp; ⚙️
 <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//typescript_icon.svg" alt="typescript" width="60" height="60"/>
   <br>
   <br>
+    Back-End&nbsp; 🔧
+  <br>
+  <br>
+<img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons/node_js_icon.svg" alt="node-js" width="60" height="60"/>
+<img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//typescript_icon.svg" alt="typescript" width="60" height="60"/>
+<img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons/express.png" alt="express" width="100" />
+<img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons/prisma_icon.png" alt="prisma" width="60" height="60"/>
+<img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons/postgressql_icon.png" alt="postgresql" width="60" height="60"/>
+<img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons/sqlite_icon.png" alt="sqlite" width="60" height="60"/>
+  <br>
+  <br>
     Other technologies used in personal and professional projects&nbsp; 🛠️
   <br>
   <br>
 <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//tailwindcss_icon.svg" alt="tailwindcss" width="60" height="60"/>
 <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//styled_components_icon.png" alt="styled-components" width="60" height="60"/>
 <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//framer_motion_icon.png" alt="framer-motion" width="60" height="60"/>
-  <br>
-  <br>
 <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//jest_icon.svg" alt="jest" width="60" height="60"/>
 <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//testing-library_icon.png" alt="testing-library" width="60" height="60"/>
 <img src="https://vtamnkjcbuirpccjxqos.supabase.co/storage/v1/object/public/projects-technologies-icons//redux_icon.png" alt="redux" width="60" height="60"/>
